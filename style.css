@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    color: #535353;
+    margin: auto;
+    padding: 0.5rem;
+}
+h1, h2{
+    background-color: #fd7e07;
+    padding: 10px;
+    color: #ffff;
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    margin: 0px;
+}
+.centralizar{
+    text-align: center;
+}
+ol, ul{
+    line-height: 32px;
+}
+.btn-youtube{
+    background-color: #fd7e07;
+    color: #ffff;
+    text-decoration: none;
+    padding: 15px 32px;
+    display: inline-block;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.btn-youtube:hover{
+    background-color: #ffff;
+    color: #fd7e07;
+    border: solid 1px;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: none;
+}
